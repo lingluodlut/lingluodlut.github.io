@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ling Luo"
+title                    : "Ling Luo HomePage"
 title_separator          : "-"
 name                     : &name "Ling Luo"
 description              : &description "personal description"
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Ling Luo"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PH.D. Student\nCollege of Computer Science and Technology, Dalian University of Technology, Dalian, China"
   location         : "Location"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            :"lingluo@mail.dlut.edu.cn"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "lingluodlut"
   google_plus      :
   keybase          :
   instagram        :
