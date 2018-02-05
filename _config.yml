@@ -13,7 +13,7 @@ name                     : &name "Ling Luo"
 description              : &description "personal description"
 url                      : https://lingluodlut.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "lingluodlut/lingluodlut.github.io"
 teaser                   :  "profile.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Ling Luo"
   avatar           : "profile.png"
-  bio              : "PH.D. Student\nCollege of Computer Science and Technology, Dalian University of Technology, Dalian, China"
-  location         : "Location"
+  bio              : "PH.D. Student College of Computer Science and Technology, Dalian University of Technology, Dalian, China"
+  location         : #"Location"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "lingluo at mail.dlut.edu.cn"
+  email            : "lingluo@mail.dlut.edu.cn"
   uri              :
   bitbucket        :
   codepen          :
