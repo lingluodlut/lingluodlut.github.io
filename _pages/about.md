@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the College of Computer Science and Technology at Dalian University of Technology, where I am affiliated with [Information Retrieval lab](http://ir.dlut.edu.cn/). My research interests inculde Natural Language Processing, Biomedical Text Mining, and Deep Learning. I received my master's degree and bachelor's degree in the School of Information Science and Engineering at Xiamen University. I like traveling and photography (See my CV for more information).
+I am a Ph.D. student in the College of Computer Science and Technology at Dalian University of Technology, where I am a member of [Information Retrieval lab](http://ir.dlut.edu.cn/). My research interests inculde Natural Language Processing, Biomedical Text Mining, and Deep Learning. I received my master's degree and bachelor's degree in the School of Information Science and Engineering at Xiamen University. I like traveling and photography (See my CV for more information).
 
-Research Interest
+Research Interests
 =====
 
 
@@ -18,12 +18,16 @@ Research Interest
 - Biomedical Text Mining
 - Deep Learning
 
-News
-=====
-
 
 Recent Publications
 =====
 
 - **Ling Luo**, Zhihao Yang, Pei Yang, Yin Zhang, Lei Wang, Hongfei Lin, and Jian Wang. [An attention-based BiLSTM-CRF approach to document-level chemical named entity recognition](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btx761/4657076?redirectedFrom=PDF). *Bioinformatics*, 2017.
+- **Ling Luo**, Pei Yang, Zhihao Yang, Hongfei Lin and Jian Wang. [DUTIR at the BioCreative V.5.BeCalm Tasks: A BLSTM-CRF Approach for Biomedical Entity Recognition in Patents](http://www.biocreative.org/media/store/files/2017/BioCreative_V5_paper4.pdf). *Proceedings of the BioCreative V.5 Challenge Evaluation Workshop*, 2017. 
 
+Selected Blog Posts
+=====
+
+- [Joint extraction of entities and relations based on neural networks (in Chinese)](http://www.cnblogs.com/robert-dlut/p/7710735.html)
+- [Neural network structures in named entity recognition (in Chinese)](http://www.cnblogs.com/robert-dlut/)
+- [Attention mechanisms in natural language processing (in Chinese)](http://www.cnblogs.com/robert-dlut/p/5952032.html)
