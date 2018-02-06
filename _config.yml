@@ -80,10 +80,10 @@ analytics:
 author:
   name             : "Ling Luo"
   avatar           : "profile.png"
-  bio              : "PH.D. Student College of Computer Science and Technology, Dalian University of Technology, Dalian, China"
+  bio              : "PH.D. Student, College of Computer Science and Technology, Dalian University of Technology, Dalian, China"
   location         : #"Location"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=iw32leEAAAAJ&hl=en"
   email            : "lingluo@mail.dlut.edu.cn"
   uri              :
   bitbucket        :
@@ -98,13 +98,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-5141-0259"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
