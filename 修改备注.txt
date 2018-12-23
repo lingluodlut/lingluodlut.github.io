@@ -3,3 +3,6 @@ lingluodlut.github.io\_pages\about.md
 
 lingluodlut.github.io\_publications
 添加论文
+
+_config.yml
+个人信息
