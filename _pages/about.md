@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the College of Computer Science and Technology at Dalian University of Technology, where I am a member of [Information Retrieval lab](http://ir.dlut.edu.cn/). My research interests inculde Natural Language Processing, Biomedical Text Mining, and Deep Learning. I received my master's degree and bachelor's degree in the School of Information Science and Engineering at Xiamen University. I like traveling and photography (See my [CV](http://lingluodlut.github.io/files/cv-ling-luo-github.pdf) for more information).
+I am a Ph.D. student in the College of Computer Science and Technology at Dalian University of Technology, where I am a member of [Information Retrieval lab](http://ir.dlut.edu.cn/). My research interests include Natural Language Processing, Biomedical Text Mining, and Deep Learning. I received my master's degree and bachelor's degree in the School of Information Science and Engineering at Xiamen University. I like traveling and photography (See my [CV](http://lingluodlut.github.io/files/cv-ling-luo-github.pdf) for more information).
 
 Research Interests
 =====
