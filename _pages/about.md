@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the College of Computer Science and Technology at Dalian University of Technology, where I am a member of [Information Retrieval lab](http://ir.dlut.edu.cn/). My research interests include Natural Language Processing, Biomedical Text Mining, and Deep Learning. I received my master's degree and bachelor's degree in the School of Information Science and Engineering at Xiamen University. I like traveling and photography (See my [CV](http://lingluodlut.github.io/files/cv-ling-luo-github.pdf) for more information).
+I am a Postdoctoral Fellow in [Zhiyong Lu’s BioNLP Group](https://www.ncbi.nlm.nih.gov/research/bionlp/) at National Center for Biotechnology Information (NCBI)/National Library of Medicine (NLM)/National Institutes of Health (NIH). My research interests include Natural Language Processing, Biomedical Text Mining, and Deep Learning. I received my PhD's degree in the College of Computer Science and Technology at Dalian University of Technology, where I was a member of [Information Retrieval lab (DUTIR)](http://ir.dlut.edu.cn/). I received my master's degree and bachelor's degree in the School of Information Science and Engineering at Xiamen University. I like traveling and photography (See my [CV](http://lingluodlut.github.io/files/cv-ling-luo-github.pdf) for more information).
 
 Research Interests
 =====
@@ -30,7 +30,7 @@ Recent Publications
 
 Challenges
 =====
-
+- The 2019 China Conference on Knowledge Graph and Semantic Computing (CCKS 2019) Challenge: Chinese Clinical Named Entity Recognition Task, The Third Place in 44 Teams
 - The 2018 China Conference on Knowledge Graph and Semantic Computing (CCKS 2018) Challenge: Chinese Clinical Named Entity Recognition Task, The Third Place in 69 Teams
 - BioCrative VI Precision Medicine Track: Document Triage Task, The Second Place in 10 Teams
 - BioCreative V.5 Challenge: The CEMP (Chemical Entity Mention in Patents) Task, The First Place in 14 Teams
@@ -39,6 +39,7 @@ Challenges
 Selected Blog Posts
 =====
 
+- [BioNER-Progress](https://github.com/lingluodlut/BioNER-Progress)
 - [Pre-trianing of language models for natural language processing (in Chinese)](https://www.cnblogs.com/robert-dlut/p/9824346.html)
 - [Self-attention mechanisms in natural language processing (in Chinese)](https://www.cnblogs.com/robert-dlut/p/8638283.html)
 - [Joint extraction of entities and relations based on neural networks (in Chinese)](http://www.cnblogs.com/robert-dlut/p/7710735.html)
