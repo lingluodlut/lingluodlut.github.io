@@ -22,6 +22,7 @@ Research Interests
 Recent Publications
 =====
 
+- **Ling Luo**, Zhihao Yang, Mingyu Cao, Lei Wang, Yin Zhang and Hongfei Lin. [A neural network-based joint learning approach for biomedical entity and relation extraction from biomedical literature](https://www.sciencedirect.com/science/article/pii/S1532046420300113). *Journal of Biomedical Informatics*, 2020, Volume 103: 103384.
 - **Ling Luo**, Zhihao Yang, Lei Wang, Yin Zhang, Hongfei Lin and Jian Wang. [KeSACNN: a protein-protein interaction article classification approach based on deep neural network](https://www.inderscienceonline.com/doi/abs/10.1504/IJDMB.2019.099724). *International Journal of Data Mining and Bioinformatics*, 2019, 22(2): 131-148.
 - **Ling Luo**, Zhihao Yang, Pei Yang, Yin Zhang, Lei Wang, Jian Wang and Hongfei Lin. [A neural network approach to chemical and gene/protein entity recognition in patents](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-018-0318-3). *Journal of Cheminformatics*, 2018, 10:65.
 - **Ling Luo**, Zhihao Yang, Hongfei Lin, Jian Wang. [Document triage for identifying protein–protein interactions affected by mutations: a neural network ensemble approach](https://academic.oup.com/database/article/doi/10.1093/database/bay097/5103353). *Database*, 2018.
