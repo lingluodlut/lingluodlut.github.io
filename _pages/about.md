@@ -22,6 +22,7 @@ Research Interests
 Recent Publications
 =====
 
+- **Ling Luo**, Shankai Yan, Po-Ting Lai, Daniel Veltri, Andrew Oler, Sandhya Xirasagar, Rajarshi Ghosh, Morgan Similuk, Peter N. Robinson, Zhiyong Lu. [A Hybrid Method for Phenotype Concept Recognition using the Human Phenotype Ontology](https://www.iscb.org/cms_addon/conferences/ismb2020/tracks/textminingcosi). *28th Conference on Intelligent Systems for Molecular Biology (ISMB 2020)*, Abstracts (oral and poster), July 2020, online.
 - **Ling Luo**, Zhihao Yang, Mingyu Cao, Lei Wang, Yin Zhang and Hongfei Lin. [A neural network-based joint learning approach for biomedical entity and relation extraction from biomedical literature](https://www.sciencedirect.com/science/article/pii/S1532046420300113). *Journal of Biomedical Informatics*, 2020, Volume 103: 103384.
 - **Ling Luo**, Zhihao Yang, Lei Wang, Yin Zhang, Hongfei Lin and Jian Wang. [KeSACNN: a protein-protein interaction article classification approach based on deep neural network](https://www.inderscienceonline.com/doi/abs/10.1504/IJDMB.2019.099724). *International Journal of Data Mining and Bioinformatics*, 2019, 22(2): 131-148.
 - **Ling Luo**, Zhihao Yang, Pei Yang, Yin Zhang, Lei Wang, Jian Wang and Hongfei Lin. [A neural network approach to chemical and gene/protein entity recognition in patents](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-018-0318-3). *Journal of Cheminformatics*, 2018, 10:65.
