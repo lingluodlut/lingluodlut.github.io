@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Fellow in [Zhiyong Lu’s BioNLP Group](https://www.ncbi.nlm.nih.gov/research/bionlp/) at National Center for Biotechnology Information (NCBI)/National Library of Medicine (NLM)/National Institutes of Health (NIH). My research interests include Natural Language Processing, Biomedical Text Mining, and Deep Learning. I received my PhD's degree in the College of Computer Science and Technology at Dalian University of Technology, where I was a member of [Information Retrieval lab (DUTIR)](http://ir.dlut.edu.cn/). I received my master's degree and bachelor's degree in the School of Information Science and Engineering at Xiamen University. I like traveling and photography (See my [CV](http://lingluodlut.github.io/files/cv-ling-luo-github.pdf) for more information).
+I am a Postdoctoral Fellow in [Zhiyong Lu’s BioNLP Group](https://www.ncbi.nlm.nih.gov/research/bionlp/) at National Center for Biotechnology Information (NCBI)/National Library of Medicine (NLM)/National Institutes of Health (NIH). My research interests include Natural Language Processing, Biomedical Text Mining, and Deep Learning. I received my PhD's degree in the College of Computer Science and Technology at Dalian University of Technology, where I was a member of [Information Retrieval lab (DUTIR)](http://ir.dlut.edu.cn/). I received my master's degree and bachelor's degree in the School of Information Science and Engineering at Xiamen University, where I was a member of [Natural Language Processing Laboratory of Xiamen University](http://nlp.xmu.edu.cn/). I like traveling and photography (See my [CV](http://lingluodlut.github.io/files/cv-ling-luo-github.pdf) for more information).
 
 Research Interests
 =====
