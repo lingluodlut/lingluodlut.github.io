@@ -6,3 +6,6 @@ lingluodlut.github.io\_publications
 
 _config.yml
 个人信息
+
+data/navigation.yml
+编辑主题栏
