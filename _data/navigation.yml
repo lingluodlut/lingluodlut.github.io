@@ -3,6 +3,12 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Blog (Chinese)"
+    url: https://www.cnblogs.com/robert-dlut/
+
+  - title: "Projects"
+    url: /projects/
+
   #- title: "Talks"
   #  url: /talks/    
 
