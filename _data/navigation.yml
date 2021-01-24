@@ -3,11 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "BioNLP-Progress"
+    url: /BioNLP-Progress/
+
   - title: "Blog (Chinese)"
     url: https://www.cnblogs.com/robert-dlut/
-
-  #- title: "Projects"
-  #  url: /projects/
 
   #- title: "Talks"
   #  url: /talks/    
