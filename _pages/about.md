@@ -27,6 +27,10 @@ Selected Publications
 - **Ling Luo**, Zhihao Yang, Lei Wang, Yin Zhang, Hongfei Lin, Jian Wang, Liang Yang, Kan Xu and Yijia Zhang. [Protein-Protein Interaction Article Classification: A Knowledge-enriched Self-Attention Convolutional Neural Network Approach](https://ieeexplore.ieee.org/abstract/document/8621362). *Procceding of 2018 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 2018. (Regular Paper)
 - **Ling Luo**, Zhihao Yang, Yawen Song, Nan Li and Hongfei Lin. [Chinese Clinical Named Entity Recognition Based on Stroke ELMo and Multi-Task Learning](http://cjc.ict.ac.cn/online/onlinepaper/ll-2020925185620.pdf) (In Chinese). *Chinese Journal of Computers*, 2020, 43(10):1943-1957.
 
+PhD Thesis
+=====
+- **Ling Luo**. [Research on the Key Techniques of Biomedical Text Mining](http://doi.org/10.26991/d.cnki.gdllu.2019.003577) (In Chinese). *Dalian University of Technology*, Dalian, China, 2019.
+
 Challenges
 =====
 - The 2019 China Conference on Knowledge Graph and Semantic Computing (CCKS 2019) Challenge: Chinese Clinical Named Entity Recognition Task, The Third Place in 44 Teams
