@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-papers
 ---
 
-- **Ling Luo**, Shankai Yan, Po-Ting Lai, Daniel Veltri, Andrew Oler, Sandhya Xirasagar, Rajarshi Ghosh, Morgan Similuk, Peter N. Robinson, Zhiyong Lu. [PhenoTagger: A Hybrid Method for Phenotype Concept Recognition using Human Phenotype Ontology](https://doi.org/10.1093/bioinformatics/btab019). *Bioinformatics*, 2020, accepted.
+
 - **Ling Luo**, Zhihao Yang, Yawen Song, Nan Li and Hongfei Lin. [Chinese Clinical Named Entity Recognition Based on Stroke ELMo and Multi-Task Learning](http://cjc.ict.ac.cn/online/onlinepaper/ll-2020925185620.pdf) (In Chinese). *Chinese Journal of Computers*, 2020, 43(10):1943-1957.
 - **Ling Luo**, Shankai Yan, Po-Ting Lai, Daniel Veltri, Andrew Oler, Sandhya Xirasagar, Rajarshi Ghosh, Morgan Similuk, Peter N. Robinson, Zhiyong Lu. [A Hybrid Method for Phenotype Concept Recognition using the Human Phenotype Ontology](https://f1000research.com/posters/9-798). *28th Conference on Intelligent Systems for Molecular Biology (ISMB 2020)*, Abstracts (oral and poster), July 2020, online.
 - **Ling Luo**, Zhihao Yang, Mingyu Cao, Lei Wang, Yin Zhang and Hongfei Lin. [A neural network-based joint learning approach for biomedical entity and relation extraction from biomedical literature](https://www.sciencedirect.com/science/article/pii/S1532046420300113). *Journal of Biomedical Informatics*, 2020, Volume 103: 103384.
