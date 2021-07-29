@@ -21,15 +21,15 @@ Research Interests
 
 Selected Publications
 =====
-- **Ling Luo**, Shankai Yan, Po-Ting Lai, Daniel Veltri, Andrew Oler, Sandhya Xirasagar, Rajarshi Ghosh, Morgan Similuk, Peter N. Robinson, Zhiyong Lu. [PhenoTagger: A Hybrid Method for Phenotype Concept Recognition using Human Phenotype Ontology](https://doi.org/10.1093/bioinformatics/btab019). *Bioinformatics*, 2021, btab019.
+- **Ling Luo**, Shankai Yan, Po-Ting Lai, Daniel Veltri, Andrew Oler, Sandhya Xirasagar, Rajarshi Ghosh, Morgan Similuk, Peter N. Robinson, Zhiyong Lu. [PhenoTagger: A Hybrid Method for Phenotype Concept Recognition using Human Phenotype Ontology](https://doi.org/10.1093/bioinformatics/btab019). *Bioinformatics*, 2021, Volume 37, Issue 13, 1 July 2018, Pages 1884–1890.
 - **Ling Luo**, Zhihao Yang, Pei Yang, Yin Zhang, Lei Wang, Hongfei Lin and Jian Wang. [An attention-based BiLSTM-CRF approach to document-level chemical named entity recognition](https://doi.org/10.1093/bioinformatics/btx761). *Bioinformatics*, Volume 34, Issue 8, 15 April 2018, Pages 1381–1388.
 - **Ling Luo**, Zhihao Yang, Mingyu Cao, Lei Wang, Yin Zhang and Hongfei Lin. [A neural network-based joint learning approach for biomedical entity and relation extraction from biomedical literature](https://www.sciencedirect.com/science/article/pii/S1532046420300113). *Journal of Biomedical Informatics*, 2020, Volume 103: 103384.
 - **Ling Luo**, Zhihao Yang, Lei Wang, Yin Zhang, Hongfei Lin, Jian Wang, Liang Yang, Kan Xu and Yijia Zhang. [Protein-Protein Interaction Article Classification: A Knowledge-enriched Self-Attention Convolutional Neural Network Approach](https://ieeexplore.ieee.org/abstract/document/8621362). *Procceding of 2018 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 2018. (Regular Paper)
-- **Ling Luo**, Zhihao Yang, Yawen Song, Nan Li and Hongfei Lin. [Chinese Clinical Named Entity Recognition Based on Stroke ELMo and Multi-Task Learning](http://cjc.ict.ac.cn/online/onlinepaper/ll-2020925185620.pdf) (In Chinese). *Chinese Journal of Computers*, 2020, 43(10):1943-1957.
+- **Ling Luo**, Zhihao Yang, Yawen Song, Nan Li and Hongfei Lin. [Chinese Clinical Named Entity Recognition Based on Stroke ELMo and Multi-Task Learning](http://cjc.ict.ac.cn/online/onlinepaper/ll-2020925185620.pdf) . *Chinese Journal of Computers*, 2020, 43(10):1943-1957. (In Chinese)
 
 PhD Thesis
 =====
-- **Ling Luo**. [Research on the Key Techniques of Biomedical Text Mining](http://doi.org/10.26991/d.cnki.gdllu.2019.003577) (In Chinese). *Dalian University of Technology*, Dalian, China, 2019.
+- **Ling Luo**. [Research on the Key Techniques of Biomedical Text Mining](http://doi.org/10.26991/d.cnki.gdllu.2019.003577) . *Dalian University of Technology*, Dalian, China, 2019. (In Chinese)
 
 Challenges
 =====
