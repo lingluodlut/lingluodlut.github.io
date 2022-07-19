@@ -19,8 +19,9 @@ Research Interests
 - Deep Learning
 
 
-Selected Publications
+Selected Publications (* denotes equal contribution)
 =====
+- **Ling Luo***, Po-Ting Lai*, Chih-Hsuan Wei*, Cecilia N Arighi, Zhiyong Lu. [PBioRED: a rich biomedical relation extraction dataset](https://doi.org/10.1093/bib/bbac282). *Briefings in Bioinformatics*, 2022, bbac282.
 - **Ling Luo**, Shankai Yan, Po-Ting Lai, Daniel Veltri, Andrew Oler, Sandhya Xirasagar, Rajarshi Ghosh, Morgan Similuk, Peter N. Robinson, Zhiyong Lu. [PhenoTagger: A Hybrid Method for Phenotype Concept Recognition using Human Phenotype Ontology](https://doi.org/10.1093/bioinformatics/btab019). *Bioinformatics*, Volume 37, Issue 13, 1 July 2021, Pages 1884–1890.
 - **Ling Luo**, Zhihao Yang, Pei Yang, Yin Zhang, Lei Wang, Hongfei Lin and Jian Wang. [An attention-based BiLSTM-CRF approach to document-level chemical named entity recognition](https://doi.org/10.1093/bioinformatics/btx761). *Bioinformatics*, Volume 34, Issue 8, 15 April 2018, Pages 1381–1388.
 - **Ling Luo**, Zhihao Yang, Mingyu Cao, Lei Wang, Yin Zhang and Hongfei Lin. [A neural network-based joint learning approach for biomedical entity and relation extraction from biomedical literature](https://www.sciencedirect.com/science/article/pii/S1532046420300113). *Journal of Biomedical Informatics*, 2020, Volume 103: 103384.
