@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 Welcome! I am currently an associate professor in School of Computer Science and Technology at [Dalian University of Technology](https://en.dlut.edu.cn/).
-Prior to it, I worked as a Postdoctoral Fellow in [Zhiyong Lu’s BioNLP Group](https://www.ncbi.nlm.nih.gov/research/bionlp/) at National Center for Biotechnology Information (NCBI)/National Library of Medicine (NLM)/National Institutes of Health (NIH). I received my PhD's degree in the College of Computer Science and Technology at Dalian University of Technology, where I was a member of [Information Retrieval lab (DUTIR)](http://ir.dlut.edu.cn/). I received my master's degree and bachelor's degree in the School of Information Science and Engineering at Xiamen University, where I was a member of [Natural Language Processing Laboratory of Xiamen University](http://nlp.xmu.edu.cn/). I like traveling and photography (See my [CV](http://lingluodlut.github.io/files/CV-LingLuo-github-latest.pdf) for more information).
+Prior to it, I worked as a Postdoctoral Fellow in [Zhiyong Lu’s BioNLP Group](https://www.ncbi.nlm.nih.gov/research/bionlp/) at National Institutes of Health (NIH). I received my PhD's degree in the College of Computer Science and Technology at Dalian University of Technology, where I was a member of [Information Retrieval lab (DUTIR)](http://ir.dlut.edu.cn/). I received my master's degree and bachelor's degree in the School of Information Science and Engineering at Xiamen University, where I was a member of [Natural Language Processing Laboratory of Xiamen University](http://nlp.xmu.edu.cn/). I like traveling and photography (See my [CV](http://lingluodlut.github.io/files/CV-LingLuo-github-latest.pdf) for more information).
 
 [My Homepage in Chinese](http://faculty.dlut.edu.cn/luoling/zh_CN/index.htm)
 
@@ -24,6 +24,7 @@ Research Interests
 Selected Publications
 =====
 (\* denotes equal contribution)
+- **Ling Luo**\*, Chih-Hsuan Wei\*, Po-Ting Lai, Robert Leaman, Qingyu Chen, Zhiyong Lu. [AIONER: all-in-one scheme-based biomedical named entity recognition using deep learning](https://doi.org/10.1093/bioinformatics/btad310). *Bioinformatics*, Volume 39, Issue 5, May 2023, btad310.
 - **Ling Luo**\*, Po-Ting Lai\*, Chih-Hsuan Wei\*, Cecilia N Arighi, Zhiyong Lu. [BioRED: a rich biomedical relation extraction dataset](https://doi.org/10.1093/bib/bbac282). *Briefings in Bioinformatics*, Volume 23, Issue 5, September 2022, bbac282.
 - **Ling Luo**, Shankai Yan, Po-Ting Lai, Daniel Veltri, Andrew Oler, Sandhya Xirasagar, Rajarshi Ghosh, Morgan Similuk, Peter N. Robinson, Zhiyong Lu. [PhenoTagger: A Hybrid Method for Phenotype Concept Recognition using Human Phenotype Ontology](https://doi.org/10.1093/bioinformatics/btab019). *Bioinformatics*, Volume 37, Issue 13, 1 July 2021, Pages 1884–1890.
 - **Ling Luo**, Zhihao Yang, Pei Yang, Yin Zhang, Lei Wang, Hongfei Lin and Jian Wang. [An attention-based BiLSTM-CRF approach to document-level chemical named entity recognition](https://doi.org/10.1093/bioinformatics/btx761). *Bioinformatics*, Volume 34, Issue 8, 15 April 2018, Pages 1381–1388.
