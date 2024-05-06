@@ -24,7 +24,8 @@ Research Interests
 Selected Publications
 =====
 (\* denotes equal contribution)
-- **Ling Luo**\*, Chih-Hsuan Wei\*, Po-Ting Lai, Robert Leaman, Qingyu Chen, Zhiyong Lu. [AIONER: all-in-one scheme-based biomedical named entity recognition using deep learning](https://doi.org/10.1093/bioinformatics/btad310). *Bioinformatics*, Volume 39, Issue 5, May 2023, btad310.
+- **Ling Luo**, Jinzhong Ning, Yingwen Zhao, et al. [Taiyi: a bilingual fine-tuned large language model for diverse biomedical tasks](https://doi.org/10.1093/jamia/ocae037). *Journal of the American Medical Informatics Association*, February 2024, btad310.
+- **Ling Luo**\*, Chih-Hsuan Wei\*, Po-Ting Lai, Robert Leaman, Qingyu Chen, Zhiyong Lu. [AIONER: all-in-one scheme-based biomedical named entity recognition using deep learning](https://doi.org/10.1093/bioinformatics/btad310). *Bioinformatics*, Volume 39, Issue 5, May 2023, ocae037.
 - **Ling Luo**\*, Po-Ting Lai\*, Chih-Hsuan Wei\*, Cecilia N Arighi, Zhiyong Lu. [BioRED: a rich biomedical relation extraction dataset](https://doi.org/10.1093/bib/bbac282). *Briefings in Bioinformatics*, Volume 23, Issue 5, September 2022, bbac282.
 - **Ling Luo**, Shankai Yan, Po-Ting Lai, Daniel Veltri, Andrew Oler, Sandhya Xirasagar, Rajarshi Ghosh, Morgan Similuk, Peter N. Robinson, Zhiyong Lu. [PhenoTagger: A Hybrid Method for Phenotype Concept Recognition using Human Phenotype Ontology](https://doi.org/10.1093/bioinformatics/btab019). *Bioinformatics*, Volume 37, Issue 13, 1 July 2021, Pages 1884–1890.
 - **Ling Luo**, Zhihao Yang, Pei Yang, Yin Zhang, Lei Wang, Hongfei Lin and Jian Wang. [An attention-based BiLSTM-CRF approach to document-level chemical named entity recognition](https://doi.org/10.1093/bioinformatics/btx761). *Bioinformatics*, Volume 34, Issue 8, 15 April 2018, Pages 1381–1388.
@@ -38,6 +39,7 @@ PhD Thesis
 
 Challenges
 =====
+- BioCreative VIII Challenge: Phenotype normalization (genetic conditions in pediatric patients) Track, The Second Place in 5 Teams [\[paper\]](https://doi.org/10.5281/zenodo.10104756)
 - BioCreative VII Challenge: Text mining drug and chemical-protein interactions (DrugProt) Track, The Second Place in 30 Teams [\[paper\]](https://doi.org/10.1093/database/baac058)
 - The 2019 China Conference on Knowledge Graph and Semantic Computing (CCKS 2019) Challenge: Chinese Clinical Named Entity Recognition Task, The Third Place in 44 Teams [\[paper\]](https://www.researchgate.net/profile/Ling-Luo-9/publication/335824610_DUTIR_at_the_CCKS-2019_Task1_Improving_Chinese_Clinical_Named_Entity_Recognition_using_Stroke_ELMo_and_Transfer_Learning/links/61aa212f50e22929cd42b062/DUTIR-at-the-CCKS-2019-Task1-Improving-Chinese-Clinical-Named-Entity-Recognition-using-Stroke-ELMo-and-Transfer-Learning.pdf)
 - The 2018 China Conference on Knowledge Graph and Semantic Computing (CCKS 2018) Challenge: Chinese Clinical Named Entity Recognition Task, The Third Place in 69 Teams [\[paper\]](http://ceur-ws.org/Vol-2242/paper02.pdf)
