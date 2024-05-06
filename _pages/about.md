@@ -23,7 +23,7 @@ Research Interests
 
 Selected Publications
 =====
-(\* denotes equal contribution)
+(\* denotes equal contribution, + denotes corresponding author)
 - **Ling Luo**, Jinzhong Ning, Yingwen Zhao, et al. [Taiyi: a bilingual fine-tuned large language model for diverse biomedical tasks](https://doi.org/10.1093/jamia/ocae037). *Journal of the American Medical Informatics Association*, February 2024, btad310.
 - **Ling Luo**\*, Chih-Hsuan Wei\*, Po-Ting Lai, Robert Leaman, Qingyu Chen, Zhiyong Lu. [AIONER: all-in-one scheme-based biomedical named entity recognition using deep learning](https://doi.org/10.1093/bioinformatics/btad310). *Bioinformatics*, Volume 39, Issue 5, May 2023, ocae037.
 - **Ling Luo**\*, Po-Ting Lai\*, Chih-Hsuan Wei\*, Cecilia N Arighi, Zhiyong Lu. [BioRED: a rich biomedical relation extraction dataset](https://doi.org/10.1093/bib/bbac282). *Briefings in Bioinformatics*, Volume 23, Issue 5, September 2022, bbac282.
