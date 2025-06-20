@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome! I am currently an associate professor in School of Computer Science and Technology at [Dalian University of Technology](https://en.dlut.edu.cn/).
+Welcome! I am currently an professor in School of Computer Science and Technology at [Dalian University of Technology](https://en.dlut.edu.cn/).
 Prior to it, I worked as a Postdoctoral Fellow in [Zhiyong Lu’s BioNLP Group](https://www.ncbi.nlm.nih.gov/research/bionlp/) at National Institutes of Health (NIH). I received my PhD's degree in the College of Computer Science and Technology at Dalian University of Technology, where I was a member of [Information Retrieval lab (DUTIR)](http://ir.dlut.edu.cn/). I received my master's degree and bachelor's degree in the School of Information Science and Engineering at Xiamen University, where I was a member of [Natural Language Processing Laboratory of Xiamen University](http://nlp.xmu.edu.cn/). I like traveling and photography (See my [CV](http://lingluodlut.github.io/files/CV-LingLuo-github-latest.pdf) for more information).
 
 [My Homepage in Chinese](http://faculty.dlut.edu.cn/luoling/zh_CN/index.htm)
