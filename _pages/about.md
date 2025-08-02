@@ -18,7 +18,7 @@ Research Interests
 
 - Natural Language Processing
 - Biomedical Text Mining
-- Machine Learning
+- Deep Learning for Healthcare
 
 
 Selected Publications
@@ -39,6 +39,7 @@ PhD Thesis
 
 Challenges
 =====
+- SemEval-2025 Challenge: Task 10: Multilingual Characterization and Extraction of Narratives from Online News, The fist Place in 31 Teams [\[paper\]](https://propaganda.math.unipd.it/semeval2025task10/leaderboardv3.html)
 - The 2024 China Conference on Knowledge Graph and Semantic Computing and International Joint Conference on Knowledge Graphs (CCKS-IJCKG 2024) Challenge: TCMBench-Evaluating Large Language Models in Traditional Chinese Medicine, The fist Place in 17 Teams [\[paper\]](https://tianchi.aliyun.com/competition/entrance/532204/rankingList)
 - BioCreative VIII Challenge: Phenotype normalization (genetic conditions in pediatric patients) Track, The Second Place in 5 Teams [\[paper\]](https://doi.org/10.5281/zenodo.10104756)
 - BioCreative VII Challenge: Text mining drug and chemical-protein interactions (DrugProt) Track, The Second Place in 30 Teams [\[paper\]](https://doi.org/10.1093/database/baac058)
