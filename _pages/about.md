@@ -18,7 +18,7 @@ Research Interests
 
 - Natural Language Processing
 - Biomedical Text Mining
-- Deep Learning for Healthcare
+- Medical AI
 
 
 Selected Publications

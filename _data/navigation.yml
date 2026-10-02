@@ -4,8 +4,11 @@ main:
   - title: "News"
     url: /News/
 
-  - title: "Publications"
-    url: /publications/
+  - title: "Group"
+    url: https://dutir-bionlp.github.io/
+
+  #- title: "Publications"
+   # url: /publications/
 
   - title: "BioNLP-Progress"
     url: /BioNLP-Progress/
