@@ -7,8 +7,8 @@ main:
   - title: "Group"
     url: https://dutir-bionlp.github.io/
 
-  #- title: "Publications"
-   # url: /publications/
+  - title: "Publications"
+    url: /publications/
 
   - title: "BioNLP-Progress"
     url: /BioNLP-Progress/
